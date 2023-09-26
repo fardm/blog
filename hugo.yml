@@ -12,12 +12,12 @@ languages:
         title: حسین فردمحمدی
         weight: 3
         params:
-            description: یادداشت‌های حسین فردمحمدی
+            description: محل ثبت و نشر یادداشت‌های من
     
             
 
 # Change it to your Disqus shortname before using
-disqusShortname: 
+disqusShortname: fardmim
 
 # GA Tracking ID
 googleAnalytics:
@@ -51,7 +51,7 @@ params:
 
     sidebar:
         emoji: 🌱
-        subtitle: یادداشت‌های حسین فردمحمدی
+        subtitle: محل ثبت و نشر یادداشت‌های من
         avatar:
             enabled: true
             local: true
