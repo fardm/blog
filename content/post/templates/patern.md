@@ -41,3 +41,15 @@ draft: true
 ```
 <% tp.file.title %>
 ```
+
+
+## obsidian to hugo
+
+```
+python -m obsidian_to_hugo --obsidian-vault-dir=Publish --hugo-content-dir=C:\mysite\blog\content\post
+```
+
+
+```
+python -m obsidian_to_hugo --obsidian-vault-dir=C:\Users\Arvin\OneDrive\Dokumenty\obsidian\Publish --hugo-content-dir=C:\mysite\blog\content\post
+```
