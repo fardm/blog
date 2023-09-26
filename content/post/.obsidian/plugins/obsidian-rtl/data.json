@@ -1,0 +1,15 @@
+{
+  "fileDirections": {
+    "templates/patern.md": "ltr",
+    "2023/آشنایی با نرم افزار ابسیدین (obsidian)/index.md": "auto",
+    "سیاسی اجتماعی/پاسداری از زبان فارسی/index.md": "auto",
+    "todo.md": "auto",
+    "سواد دیجیتال/آشنایی با نرم افزار ابسیدین/index.md": "auto",
+    "مدیریت دانش شخصی/شخصیت آموزشی شما کدام است؟/index.md": "auto"
+  },
+  "defaultDirection": "auto",
+  "rememberPerFile": true,
+  "setNoteTitleDirection": true,
+  "setYamlDirection": false,
+  "statusBar": true
+}
